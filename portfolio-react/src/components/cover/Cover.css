@@ -18,10 +18,16 @@
 .cover-container >h1{
     color: white;
     font-size: 100px;
+    align-self: center;
+    display: flex;
+    overflow: hidden;
 }
 .cover-container > p {
     color: white;
     font-size: 32px;
     margin-top: 8px;
+    align-self: center;
+    display: flex;
+    overflow: hidden;
 
 }
