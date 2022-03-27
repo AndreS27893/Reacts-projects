@@ -18,8 +18,8 @@ const Footer = () => {
           <a href="https://www.linkedin.com/in/andres-maximiliano-bonilla-aguirre-a34387227/" target="_blank" rel="noreferrer">
             <i className="fab fa-linkedin linkedin"></i>
           </a>
-          <a href="https://twitter.com/vlogscrow1" target="_blank" rel="noreferrer">
-            <i className="fab fa-twitter twitter"></i>
+          <a href="https://github.com/AndreS27893" target="_blank" rel="noreferrer">
+            <i className="fab fa-github"></i>
           </a>
           <a href="https://api.whatsapp.com/send?phone=5493513926572" target="_blank" rel="noreferrer">
             <i className="fab fa-whatsapp"></i>
